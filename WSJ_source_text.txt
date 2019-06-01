@@ -1,0 +1,45 @@
+He’s hardly the first to suggest that the Obama administration has become too close to the Silicon Valley juggernaut.
+
+Over the past seven years, Google has created a remarkable partnership with the Obama White House, providing expertise, services, advice, and personnel for vital government projects.
+
+Precisely how much influence this buys Google isn’t always clear. But consider that over in the European Union, Google is now facing two major antitrust charges for abusing its dominance in mobile operating systems and search. By contrast, in the U.S., a strong case to sanction Google was quashed by a presidentially appointed commission.
+
+It’s a relationship that bears watching. “Americans know surprisingly little about what Google wants and gets from our government,” said Anne Weismann, executive director of Campaign for Accountability, a nonprofit watchdog organization. Seeking to change that, Weismann’s group is spearheading a data transparency project about Google’s interactions in Washington.
+
+The Intercept teamed up with Campaign for Accountability to present two revealing data sets from that forthcoming project: one on the number of White House meetings attended by Google representatives, and the second on the revolving door between Google and the government.
+
+As the interactive charts accompanying this article show, Google representatives attended White House meetings more than once a week, on average, from the beginning of Obama’s presidency through October 2015. Nearly 250 people have shuttled from government service to Google employment or vice versa over the course of his administration.
+Photo: Paul Morigi/Getty Images
+No other public company approaches this degree of intimacy with government. According to an analysis of White House data, the Google lobbyist with the most White House visits, Johanna Shelton, visited 128 times, far more often than lead representatives of the other top-lobbying companies — and more than twice as often, for instance, as Microsoft’s Fred Humphries or Comcast’s David Cohen. (The accompanying chart reflects 94 Shelton visits; it excludes large gatherings such as state dinners and White House tours.)
+
+The information, Weismann said, “will help the public learn more about the company’s influence on our government, our policies, and our lives.”
+
+Asked to respond, Google spokesperson Riva Litman referred The Intercept to a blog post written when the Wall Street Journal raised similar questions a year ago. In that post, Google said the meetings covered a host of topics, including patent reform, STEM education, internet censorship, cloud computing, trade and investment, and smart contact lenses. The company also claimed to have counted similar numbers of visits to the White House by Microsoft and Comcast — but it did not explain its methodology for parsing the data.
+
+Google’s dramatic rise as a lobbying force has not gone unnoticed. The company paid almost no attention to the Washington influence game prior to 2007, but ramped up steeply thereafter. It spent $16.7 million in lobbying in 2015, according to the Center for Responsive Politics, and has been at or near the top of public companies in lobbying expenses since 2012.
+
+But direct expenditures on lobbying represent only one part of the larger influence-peddling game. Google’s lobbying strategy also includes throwing lavish D.C. parties; making grants to trade groups, advocacy organizations, and think tanks; offering free services and training to campaigns, congressional offices, and journalists; and using academics as validators for the company’s public policy positions. Eric Schmidt, executive chairman of Alphabet, Google’s parent company, was an enthusiastic supporter of both of Obama’s presidential campaigns and has been a major Democratic donor.
+
+For its part, the Obama administration — attempting to project a brand of innovative, post-partisan problem-solving of issues that have bedeviled government for decades — has welcomed and even come to depend upon its association with one of America’s largest tech companies.
+
+ 
+
+GOOGLE DOESN’T JUST lobby the White House for favors, but collaborates with officials, effectively serving as a sort of corporate extension of government operations in the digital era.
+
+In just the past few years, Google has provided diplomatic assistance to the administration through expanding internet access in Cuba; collaborated with the Department of Housing and Urban Development to bring Google Fiber into public housing; used Google resources to monitor droughts in real time; and even captured 360-degree views of White House interiors.
+
+But perhaps most salient here is the fact that modern life requires so much information technology support that a sprawling operation like the White House has turned to tech companies — often in the form of ex-Google employees — when faced with pressing IT needs.
+
+Practically every part of the government makes available some form of technology, whether it’s the public-facing website for a federal agency, a digital mechanism for people to access benefits, or a new communications tool for espionage or war.
+
+Somebody has to build and manage those projects, and Silicon Valley firms have the expertise needed to do that. White House officials have publicly asked Silicon Valley for aid in stopping terrorists from recruiting via social media, securing the internet of things, thwarting cyberattacks, modernizing the Defense Department, and generally updating all their technology. We can reasonably expect yet more things are being asked for behind closed doors.
+
+
+The disastrous launch of HealthCare.gov in October 2013 is the most obvious example. Within weeks of the site going live, Chief Technology Officer Todd Park, his top deputy Nicole Wong (a former Google deputy general counsel), and White House Chief of Staff Denis McDonough held meetings with Google personnel.
+
+
+What’s so unprecedented is that this is the first time opponents of the program will have the chance to seek discovery evidence in the case unimpeded by the government. In every other past torture accountability lawsuit, the government has invoked its special state-secrets privileges to purportedly protect national security.
+
+But since the extraordinarily detailed and revealing executive summary of the Senate’s torture report was published in 2014, after years of investigation, the government now says almost everything is declassified already.
+
+The three plaintiffs are Suleiman Abdullah Salim, Mohamed Ahmed Ben Soud, and the estate of Gul Rahman, who died at a CIA black site known as the “Salt Pit.” Each was kidnapped and subjected to extreme physical and psychological torture and experimentation, though none was ever charged with a crime.
